@@ -121,7 +121,6 @@ class BinarySearchTree
     else
       parent_node.left = switch_node
     end
-
   end
 
   def one_child(parent_node, ded)
